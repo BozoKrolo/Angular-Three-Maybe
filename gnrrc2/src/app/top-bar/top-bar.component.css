@@ -1,0 +1,7 @@
+.material-icons {
+  transition: transform 0.7s ease-in-out;
+}
+
+.material-icons:hover {
+  transform: rotate(360deg);
+}
