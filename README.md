@@ -1,5 +1,5 @@
 # Angular-Three-Maybe
-Trying to use the three.js library within angular<br>
+Using the three.js library within angular<br>
 3.12.: 3D products visible, added orbit controls
 
 ![image](https://github.com/BozoKrolo/Angular-Three-Maybe/assets/92534297/58693207-aca1-4a24-b4c3-dd8361ef0b8b)
